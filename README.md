@@ -1,9 +1,7 @@
 # RespiTrack-ESP32
 
-A compact respiration monitoring system built with **ESP32** and **BMI160 IMU**.
-# RespiTrack-ESP32
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/Platform-ESP32-red.svg) ![Sensor](https://img.shields.io/badge/Sensor-BMI160-green.svg)
+  ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/Platform-ESP32-red.svg) ![Sensor](https://img.shields.io/badge/Sensor-BMI160-green.svg)
 
 A high-precision respiration monitoring system using the ESP32 and BMI160 IMU.
 
